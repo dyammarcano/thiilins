@@ -15,7 +15,7 @@
 
 ## Sigam-me os bons!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/thiilins)](https://github.com/thiilins)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/thiilins)](https://linkedin.com/thiilins) [![Blog Badge](https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white&link=https://thiagolins.dev.br/)](https://thiagolins.dev.br/) [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:falecom@thiagolins.dev.br)](mailto:falecom@thiagolins.dev.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thiilins)](https://linkedin.com/in/thiilins) [![Blog Badge](https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white&link=https://thiagolins.dev.br/)](https://thiagolins.dev.br/) [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:falecom@thiagolins.dev.br)](mailto:falecom@thiagolins.dev.br)
 
 - Obrigado pela sua visita. 
  
